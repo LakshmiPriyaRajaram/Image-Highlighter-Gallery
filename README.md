@@ -29,7 +29,7 @@ Feel free to **fork** this repository and submit **pull requests** with improvem
 This project is licensed under the **MIT License**.  
 
 ## 🌐 Demo  
+🔗 You can check out a live version of the project [here](https://lakshmipriyarajaram.github.io/Image-Highlighter-Gallery/)
 
-🔗 You can check out a **live version** of the project [here](https://lakshmipriyarajaram.github.io/Image-Highlighter-Gallery/). 
 
 Enjoy the interactive gallery! 🎉  
